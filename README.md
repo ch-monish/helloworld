@@ -1,2 +1,2 @@
 # helloworld
-my first gitcode
+Code editor application
